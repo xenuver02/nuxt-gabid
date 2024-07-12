@@ -12,7 +12,8 @@
   "dependencies": {
     "nodemon": "^3.1.4",
     "nuxt": "^3.12.2",
-    "vue": "latest"
+    "vue": "latest",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.12.0"
